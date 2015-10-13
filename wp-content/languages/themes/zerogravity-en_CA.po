@@ -1,0 +1,632 @@
+# Translation of ZeroGravity in English (Canada)
+# This file is distributed under the same license as the ZeroGravity package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-13 23:53:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: ZeroGravity\n"
+
+#. Theme Name of the plugin/theme
+msgid "ZeroGravity"
+msgstr "ZeroGravity"
+
+#: inc/zg-lite-guide.php:126
+msgid "Show extract or whole post on homepage and archive pages."
+msgstr "Show extract or whole post on homepage and archive pages."
+
+#: inc/zg-lite-customizer.php:131
+msgid "Purple"
+msgstr "Purple"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Full-width Page Template, No Sidebar"
+
+#: tag.php:15
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: single.php:21
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:20
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:36
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: menu-movil.php:13
+msgid "Search..."
+msgstr "Search..."
+
+#: related-posts.php:28
+msgid "Related posts"
+msgstr "Related posts"
+
+#: menu-movil.php:12 menu-movil.php:14 searchform-toggle.php:3
+#: searchform-toggle.php:5 searchform.php:3 searchform.php:5
+msgid "Search"
+msgstr "Search"
+
+#: index.php:41
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+
+#: index.php:37
+msgid "No posts to display"
+msgstr "No posts to display"
+
+#: inc/zg-lite-customizer.php:178
+msgid "Favicon (ico, png or gif)"
+msgstr "Favicon (ico, png or gif)"
+
+#: inc/zg-lite-customizer.php:188
+msgid "ZG: Fonts"
+msgstr "ZG: Fonts"
+
+#: inc/zg-lite-customizer.php:197
+msgid "Select font"
+msgstr "Select font"
+
+#: inc/zg-lite-customizer.php:220
+msgid "ZG: Posts and footer text"
+msgstr "ZG: Posts and footer text"
+
+#: inc/zg-lite-customizer.php:227
+msgid "Excerpt's thumbnail image rounded"
+msgstr "Excerpt's thumbnail image rounded"
+
+#: inc/zg-lite-customizer.php:234
+msgid "Entry text justified"
+msgstr "Entry text justified"
+
+#: inc/zg-lite-customizer.php:241
+msgid "Display related posts at the end of entries"
+msgstr "Display related posts at the end of entries"
+
+#: inc/zg-lite-customizer.php:248
+msgid "Display 'Back to top' button"
+msgstr "Display 'Back to top' button"
+
+#: inc/zg-lite-customizer.php:255
+msgid "Footer text left"
+msgstr "Footer text left"
+
+#: inc/zg-lite-customizer.php:272
+msgid "ZG: Logo in the header"
+msgstr "ZG: Logo in the header"
+
+#: inc/zg-lite-customizer.php:274
+msgid "If you choose a logo instead of full image for the header, check the option \"Header image is a logo\" to apply margins."
+msgstr "If you choose a logo instead of full image for the header, check the option \"Header image is a logo\" to apply margins."
+
+#: inc/zg-lite-customizer.php:281
+msgid "(ZG) Header image is a logo"
+msgstr "(ZG) Header image is a logo"
+
+#: inc/zg-lite-customizer.php:289
+msgid "(ZG) Center logo (Just if \"Header image is a logo\" is checked)"
+msgstr "(ZG) Center logo (Just if \"Header image is a logo\" is checked)"
+
+#: inc/zg-lite-customizer.php:299
+msgid "ZG: Top bar and social icons"
+msgstr "ZG: Top bar and social icons"
+
+#: inc/zg-lite-customizer.php:300
+msgid "(Leave blank text boxes to not display icons)"
+msgstr "(Leave blank text boxes to not display icons)"
+
+#: inc/zg-lite-customizer.php:308
+msgid "Display blog title in top bar"
+msgstr "Display blog title in top bar"
+
+#: inc/zg-lite-customizer.php:316
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr "Show the word menu next to the icon menu on mobile devices."
+
+#: inc/zg-lite-customizer.php:323
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/zg-lite-customizer.php:330
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/zg-lite-customizer.php:337
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+#: inc/zg-lite-customizer.php:344
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: inc/zg-lite-customizer.php:351
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/zg-lite-customizer.php:358
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/zg-lite-customizer.php:365
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/zg-lite-customizer.php:372
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: inc/zg-lite-guide.php:7
+msgid "ZeroGravity Guide"
+msgstr "ZeroGravity Guide"
+
+#: inc/zg-lite-guide.php:78
+msgid "Thank you for choosing ZeroGravity"
+msgstr "Thank you for choosing ZeroGravity"
+
+#: inc/zg-lite-guide.php:82
+msgid "ZeroGravity Quick Start Guide"
+msgstr "ZeroGravity Quick Start Guide"
+
+#: inc/zg-lite-guide.php:84
+msgid "Important: thumbnails"
+msgstr "Important: thumbnails"
+
+#: inc/zg-lite-guide.php:85
+msgid "For images appear on the homepage, you must set the featured image of the posts."
+msgstr "For images appear on the homepage, you must set the featured image of the posts."
+
+#: inc/zg-lite-guide.php:87
+msgid "If ZeroGravity is not the first theme you use, you must regenerate the thumbnails of image with some free plugin as"
+msgstr "If ZeroGravity is not the first theme you use, you must regenerate the thumbnails of image with some free plugin as"
+
+#: inc/zg-lite-guide.php:89
+msgid "Customize ZeroGravity"
+msgstr "Customize ZeroGravity"
+
+#: inc/zg-lite-guide.php:90
+msgid "Go to \"Appearance >> Customize >> ZeroGravity Options\" and set the options in the sections \"ZG: Color, Favicon and Sidebar\", \"ZG: Top bar and social icons\", \"ZG: Logo in the header\", \"ZG: Posts and footer text\", \"ZG: Fonts\"."
+msgstr "Go to \"Appearance >> Customize >> ZeroGravity Options\" and set the options in the sections \"ZG: Color, Favicon and Sidebar\", \"ZG: Top bar and social icons\", \"ZG: Logo in the header\", \"ZG: Posts and footer text\", \"ZG: Fonts\"."
+
+#: inc/zg-lite-guide.php:92
+msgid "Logo in the header"
+msgstr "Logo in the header"
+
+#: inc/zg-lite-guide.php:95
+msgid "if you choose a logo, instead full image for the header, go to the section \"Logo in the header\" and check the option \"Header image is a logo\". You can too center the logo."
+msgstr "if you choose a logo, instead full image for the header, go to the section \"Logo in the header\" and check the option \"Header image is a logo\". You can too center the logo."
+
+#: inc/zg-lite-guide.php:102
+msgid "Before to check \"Header image is a logo\"."
+msgstr "Before to check \"Header image is a logo\"."
+
+#: inc/zg-lite-guide.php:107
+msgid "After to check \"Header image is a logo\"."
+msgstr "After to check \"Header image is a logo\"."
+
+#: inc/zg-lite-guide.php:121
+msgid "Forum support"
+msgstr "Forum support"
+
+#: inc/zg-lite-guide.php:122
+msgid "Customizable maximum width"
+msgstr "Customisable maximum width"
+
+#: inc/zg-lite-guide.php:123
+msgid "Unlimited theme colors"
+msgstr "Unlimited theme colours"
+
+#: inc/zg-lite-guide.php:124
+msgid "Light gray main menu or black"
+msgstr "Light grey main menu or black"
+
+#: inc/zg-lite-guide.php:125
+msgid "Sidebar left or right"
+msgstr "Sidebar left or right"
+
+#: inc/zg-lite-guide.php:127
+msgid "7 widgets areas to add AdSense code or anything else"
+msgstr "7 widgets areas to add AdSense code or anything else"
+
+#: inc/zg-lite-guide.php:128
+msgid "Easily add your Favicon"
+msgstr "Easily add your Favicon"
+
+#: inc/zg-lite-guide.php:129
+msgid "Easily add yor Login Logo"
+msgstr "Easily add yor Login Logo"
+
+#: inc/zg-lite-guide.php:130
+msgid "Available 15 differents Google fonts"
+msgstr "Available 15 differents Google fonts"
+
+#: inc/zg-lite-guide.php:131
+msgid "Custom widgets (Recent posts with square thumbnails or rounded, Popular posts with square thumbnails or rounded, Recent comments with square avatars or rounded, Email subscription)"
+msgstr "Custom widgets (Recent posts with square thumbnails or rounded, Popular posts with square thumbnails or rounded, Recent comments with square avatars or rounded, Email subscription)"
+
+#: inc/zg-lite-guide.php:132
+msgid "Related posts with thumbnails"
+msgstr "Related posts with thumbnails"
+
+#: inc/zg-lite-guide.php:133
+msgid "Show/Hide post meta (author, date, comments number)"
+msgstr "Show/Hide post meta (author, date, comments number)"
+
+#: inc/zg-lite-guide.php:134
+msgid "Show/Hide pages title"
+msgstr "Show/Hide pages title"
+
+#: inc/zg-lite-guide.php:135
+msgid "Breadcrumb navigation"
+msgstr "Breadcrumb navigation"
+
+#: inc/zg-lite-guide.php:136
+msgid "Custom pagination"
+msgstr "Custom pagination"
+
+#: inc/zg-lite-guide.php:137
+msgid "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+msgstr "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+
+#: inc/zg-lite-guide.php:138
+msgid "Social networks in user profile"
+msgstr "Social networks in user profile"
+
+#: inc/zg-lite-guide.php:139
+msgid "Google Plus Authorship Integration"
+msgstr "Google Plus Authorship Integration"
+
+#: inc/zg-lite-guide.php:140
+msgid "Easily apply ZeroGravity style to bbPress, just check the option."
+msgstr "Easily apply ZeroGravity style to bbPress, just check the option."
+
+#: inc/zg-lite-guide.php:141
+msgid "Google Analytics ready, just paste the code"
+msgstr "Google Analytics ready, just paste the code"
+
+#: inc/zg-lite-guide.php:142
+msgid "AddThis ready, just paste the code"
+msgstr "AddThis ready, just paste the code"
+
+#: inc/zg-lite-guide.php:143
+msgid "Translation Ready (.po file integrated)"
+msgstr "Translation Ready (.po file integrated)"
+
+#: inc/zg-lite-guide.php:144
+msgid "Integrated Spanish and English"
+msgstr "Integrated Spanish and English"
+
+#. #-#-#-#-#  zerogravity.pot (ZeroGravity 1.5.2)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/zg-lite-guide.php:80
+msgid "ZeroGravity is a simple and light WordPress theme with a clear and neat design. Some its features are: left sidebar or right, custom theme color (blue, green, orange, red, pink, yellow or purple), custom favicon, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), customization panel, fully responsive, custom header, custom background and more. Translation Ready (English and spanish integrated). Required WordPress 4.1+."
+msgstr "ZeroGravity is a simple and light WordPress theme with a clear and neat design. Some its features are: left sidebar or right, custom theme colour (blue, green, orange, red, pink, yellow or purple), custom favicon, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), customisation panel, fully responsive, custom header, custom background and more. Translation Ready (English and spanish integrated). Required WordPress 4.1+."
+
+#: inc/zg-lite-customizer.php:169
+msgid "Right"
+msgstr "Right"
+
+#: inc/zg-lite-customizer.php:168
+msgid "Left"
+msgstr "Left"
+
+#: inc/zg-lite-customizer.php:143
+msgid "Apply to entry title in excerpts"
+msgstr "Apply to entry title in excerpts"
+
+#: inc/zg-lite-customizer.php:152
+msgid "White header"
+msgstr "White header"
+
+#: inc/zg-lite-customizer.php:163
+msgid "Select sidebar position"
+msgstr "Select sidebar position"
+
+#: inc/zg-lite-customizer.php:133
+msgid "Yellow"
+msgstr "Yellow"
+
+#: inc/zg-lite-customizer.php:132
+msgid "Red"
+msgstr "Red"
+
+#: inc/zg-lite-customizer.php:130
+msgid "Pink"
+msgstr "Pink"
+
+#: inc/zg-lite-customizer.php:129
+msgid "Orange"
+msgstr "Orange"
+
+#: inc/zg-lite-customizer.php:128
+msgid "Green"
+msgstr "Green"
+
+#: inc/zg-lite-customizer.php:127
+msgid "Blue"
+msgstr "Blue"
+
+#: inc/zg-lite-customizer.php:102 inc/zg-lite-guide.php:90
+msgid "ZeroGravity Options"
+msgstr "ZeroGravity Options"
+
+#: inc/zg-lite-customizer.php:112
+msgid "ZG: Color, Favicon and Sidebar"
+msgstr "ZG: Colour, Favicon and Sidebar"
+
+#: inc/zg-lite-customizer.php:122
+msgid "Select theme color"
+msgstr "Select theme colour"
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: image.php:22
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:105
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: header.php:37
+msgid "MENU"
+msgstr "Menu"
+
+#: functions.php:462
+msgid "Read more"
+msgstr "Read more"
+
+#: functions.php:367
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:365
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:363
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:357
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:343 functions.php:346
+msgid ", "
+msgstr ", "
+
+#: functions.php:322
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:313
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#. translators: 1: date, 2: time
+#: functions.php:307
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:301
+msgid "Post author"
+msgstr "Post author"
+
+#: functions.php:286
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:286
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:260
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:259
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: functions.php:257 single.php:18
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: functions.php:215
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr "Appears on posts and pages except Full-width Page Template"
+
+#: functions.php:223
+msgid "ZeroGravity: Below entries title"
+msgstr "ZeroGravity: Below entries title"
+
+#: functions.php:224
+msgid "Appears below entries title"
+msgstr "Appears below entries title"
+
+#: functions.php:233
+msgid "ZeroGravity: End of entries"
+msgstr "ZeroGravity: End of entries"
+
+#: functions.php:234
+msgid "Appears at the end of entries content"
+msgstr "Appears at the end of entries content"
+
+#: functions.php:213
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:97
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:91
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:25
+msgid "Back to top"
+msgstr "Back to top"
+
+#: footer.php:17
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#: footer.php:17
+msgid "Powered by"
+msgstr "Powered by"
+
+#: footer.php:16
+msgid "by"
+msgstr "by"
+
+#: footer.php:13 inc/zg-lite-customizer.php:252
+msgid "Copyright 2015"
+msgstr "Copyright 2015"
+
+#: footer.php:14 inc/zg-lite-customizer.php:259 inc/zg-lite-customizer.php:262
+msgid "Footer text center"
+msgstr "Footer text centre"
+
+#: footer.php:17
+msgid "https://wordpress.org/"
+msgstr "https://en-ca.wordpress.org/"
+
+#: content.php:95
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:51
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:22 content.php:74 functions.php:318 image.php:33
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:19 content.php:52 image.php:98
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:15 index.php:52
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found. Perhaps searching will help find a related post."
+
+#: content-none.php:11 index.php:48 search.php:32
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:24
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: category.php:15
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: author.php:41 content.php:91
+msgid "About %s"
+msgstr "About %s"
+
+#: author.php:20
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: archive.php:23
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:21
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:19
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:17
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: 404.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "This is somewhat embarrassing, isn&rsquo;t it?"
+
+#. Author of the plugin/theme
+msgid "GalussoThemes"
+msgstr "GalussoThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://galussothemes.com"
+msgstr "http://galussothemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://galussothemes.com/wordpress-themes/zerogravity"
+msgstr "http://galussothemes.com/wordpress-themes/zerogravity"
